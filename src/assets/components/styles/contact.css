@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    display: flexbox;
+}
+
+.icons{
+    letter-spacing: 20px;
+    text-decoration: none;
+    
+}
+#in{
+    
+    font-size: 23px;
+}

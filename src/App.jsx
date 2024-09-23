@@ -3,6 +3,7 @@ import Navbar from './assets/components/navbar'
 import './App.css'
 import Contact from './assets/components/contact'
 import NameSaver from './assets/components/yourname'
+import Project from './assets/components/projects'
 function App() {
   
 
@@ -17,6 +18,9 @@ function App() {
     <main>
       <NameSaver></NameSaver>
     </main>
+    </section>
+    <section>
+    <Project></Project>
     </section>
     <section href="contact" className='contact' id='contact'>
       

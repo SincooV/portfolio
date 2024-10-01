@@ -1,1 +1,11 @@
 
+.img{
+    width: 40vh;
+   
+}
+
+@media (max-width: 728px) {
+    .img{
+        width: 50vw;
+    }
+}

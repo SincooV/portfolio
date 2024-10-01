@@ -10,12 +10,7 @@ export default function projects(){
                 
 
         <div className="projecIMG">
-                <img src="https://via.placeholder.com/150" alt="project1"/>
-                <img src="https://via.placeholder.com/150" alt="project2"/>
-                <img src="https://via.placeholder.com/150" alt="project3"/>
-                <img src="https://via.placeholder.com/150" alt="project4"/>
-                <img src="https://via.placeholder.com/150" alt="project5"/>
-                <img src="https://via.placeholder.com/150" alt="project6"/>
+                <img src="https://i.imgur.com/8DeJyvT.gif" alt="project1" className="img"/>
             </div>
         </div>
 

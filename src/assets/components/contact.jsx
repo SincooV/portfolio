@@ -8,7 +8,7 @@ export default function About(){
         <a href="https://github.com/SincooV" target="_blank" rel="noopener noreferrer">
         <i className="bi bi-github"></i>
         </a>
-        <a href="https://www.linkedin.com/in/vitor-tavares-48b12b262/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/vitor-leite-398481331/ target="_blank" rel="noopener noreferrer">
   <i className="bi bi-linkedin" id="in"></i>
 </a>
         </div>
